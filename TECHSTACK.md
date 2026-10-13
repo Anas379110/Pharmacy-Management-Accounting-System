@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام إدارة ومحاسبة الصيدلية
+# 🛠️ Technologies Used — Pharmacy Management & Accounting System
 
 - C#
 - ASP.NET Core

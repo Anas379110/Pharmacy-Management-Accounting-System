@@ -1,21 +1,20 @@
-# نظام إدارة ومحاسبة الصيدلية
-**Pharmacy Management & Accounting System** · التصنيف: منصة تجارية
+# Pharmacy Management & Accounting System
+**Pharmacy Management & Accounting System** · Category: Commercial Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-نظام لإدارة ومحاسبة الصيدلية يسهّل العمليات اليومية من المبيعات والمشتريات وضبط الجرد ومتابعة الفواتير والتقارير بدقة وكفاءة.
+## Project Overview
+A system for pharmacy management and accounting that facilitates daily operations: sales, purchases, inventory control, invoice tracking, and reporting with accuracy and efficiency.
 
-## أبرز النقاط
-- فواتير مبيعات ومشتريات مع جرد يراعي تواريخ الصلاحية
-- حسابات الموردين والزبائن وتسوية الصندوق اليومية
-- تقارير مالية ومخزنية تفصيلية
+## Key Highlights
+- Sales and purchase invoicing with inventory that accounts for expiration dates
+- Supplier and customer accounts and daily cash reconciliation
+- Detailed financial and inventory reports
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business Platforms Developer: requirements analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies Used
 C#, ASP.NET Core, EF Core, SQL Server, React, Barcode Scanning, Reporting
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
